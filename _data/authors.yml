@@ -1,16 +1,15 @@
 # Sample Authors
 # Remove file or replace with your own
 
-Billy Rick:
-  name: Billy Rick
-  picture: /images/bio-photo-2.jpg
-  twitter: "@billyrick"
+ensarkarabudak:
+  name: Ensar Karabudak
+  picture: /images/avatar.png
+  twitter: "@ensarkarabudak"
   links:
     - title: Twitter
-      url: https://twitter.com/billyrick
+      url: https://twitter.com/ensarkarabudak
       icon: fab fa-twitter-square
+    - title: GitHub
+      url: https://github.com/ensarkarabudak
+      icon: fab fa-github-square
 
-Cornelius Fiddlebone:
-  name: Cornelius Fiddlebone
-  picture: /images/bio-photo.jpg
-  twitter: corneliusfiddlebone
