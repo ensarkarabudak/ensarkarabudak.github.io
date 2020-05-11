@@ -51,7 +51,7 @@ feed:
   path: atom.xml
 
 # Pagination - https://jekyllrb.com/docs/pagination/
-paginate: 10
+paginate: 12
 paginate_path: /page:num/
 
 # Search
@@ -102,6 +102,21 @@ author:
 
 # Footer Links
 footer_links:
+  - title: Twitter
+    url: https://twitter.com/ensarkarabudak
+    icon: fab fa-twitter-square
+  - title: GitHub
+    url: https://github.com/ensarkarabudak
+    icon: fab fa-github-square
+  - title: E-mail
+    url: ensarkarabudak@gmail.com
+    icon: far fa-envelope
+  - title: E-mail
+    url: https://www.linkedin.com/in/ensar-karabudak-47445612a/
+    icon: fab fa-linkedin-in
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
+
+
+
