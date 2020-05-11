@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Bellek Sizintisi"
+tags:
+  - bilgisayar bilimleri
 ---
 
 ![image-center]({{ '/images/BellekSizintisi/Bellek-Sizintisi-1024x386.png' | absolute_url }}){: .align-center}

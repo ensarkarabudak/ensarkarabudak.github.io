@@ -1,11 +1,8 @@
 ---
 layout: post
 title: "İkili Arama Algoritması (Binary Search Algorithm)?"
-level: Başlangıç
-published: true
-lang: tr
-ref: hosting-web-sites-from-your-own-computer
-blog: yes
+tags:
+  - algoritma
 ---
 
 **Bilgisayar mühendisliği** ya da **bilgisayar bilimleri**nin önemli derslerinden olan veri yapılarında işlenen bu arama algoritmasını anlatacağım.Genel olarak verilen bir dizi üzerinde **ikiye bölerek** aradığımız elemanı bulmamıza yarayan algoritmadır.Bu anlatımda ikili arama(binary search) diziler üzerinden anlatıcaktır.Bu algoritma dizi dışında bir çok farklı veri alanlarında kullanılabilir.

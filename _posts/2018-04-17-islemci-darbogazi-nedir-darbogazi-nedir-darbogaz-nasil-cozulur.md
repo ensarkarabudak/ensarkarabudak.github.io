@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "İşlemci Darboğazı Nedir? Darboğazı Nedir? Darboğaz(Bottleneck) Nasıl Çözülür?"
+tags:
+  - işletim sistemleri
+  - bilgisayar bilimleri
 ---
 
 İşlemci Darboğazı Nedir? Darboğazı Nedir? Darboğaz Nasıl Çözülür?

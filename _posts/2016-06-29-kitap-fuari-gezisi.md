@@ -1,6 +1,10 @@
 ---
 layout: post
 title: "35. Türkiye Kitap ve Kültür Fuarı Gezisi"
+tags:
+  - blog
+  - gezi
+  - kitap
 ---
 
 Herkese merhaba!

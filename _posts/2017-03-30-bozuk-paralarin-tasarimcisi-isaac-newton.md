@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Bozuk Paraların Tasarımcısı:Isaac Newton"
+tags:
+  - bilim
 ---
 
 Isaac Newton dünyaya gelmiş ve bilime büyük katkısı olan en iyi bilim adamlarından olduğu herkes tarafından bilinir fakat **İngiltere’nin Kraliyet Darphanesi’nde** 30 yıla yakın yöneticilik yaptığı çoğu kişi tarafından pek bilinmez.

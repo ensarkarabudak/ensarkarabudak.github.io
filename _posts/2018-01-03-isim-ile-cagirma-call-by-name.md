@@ -1,6 +1,9 @@
 ---
 layout: post
-title: "İsim ile Çağırma(Call by Name))"
+title: "İsim ile Çağırma(Call by Name)"
+tags:
+  - programlama dilleri
+  - bilgisayar bilimleri
 ---
 
 İsim ile Çağırma(Call by Name)

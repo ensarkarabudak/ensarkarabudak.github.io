@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Insertion Sort(Eklemeli Sıralama)"
+tags:
+  - algoritma
+  - bilgisayar bilimleri
 ---
 
 Insertion Sort(Eklemeli Sıralama),sıralama yöntemlerinde sık kullanılır.Insertion Sort, Bubble Sort yönteminin iyileştirilmiş halidir.Zaman karmaşıklığı(time complexity)O(n^2)’dir.

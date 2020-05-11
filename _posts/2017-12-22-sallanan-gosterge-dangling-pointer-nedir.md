@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Sallanan Gösterge(Dangling Pointer) Nedir?"
+tags:
+  - bilgisayar bilimleri
 ---
 
 **Sallanan Gösterge**,bir göstergenin(pointer) gösterdiği değişkenin adresinde veri olmaması durumudur.Yani pointer(gösterge) serbest bırakılmış bir yığın değişkene işaret etmiş olur.Serbest bırakılmış bir bellek adresini gösteren göstergeye sallanan gösterge (dangling pointer) denir.

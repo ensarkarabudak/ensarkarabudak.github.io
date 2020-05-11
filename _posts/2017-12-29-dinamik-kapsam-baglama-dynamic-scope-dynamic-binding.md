@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Dinamik Kapsam Bağlama(Dynamic Scope,Dynamic Binding)"
+tags:
+  - programlama dilleri
+  - bilgisayar bilimleri
 ---
 
 <center>

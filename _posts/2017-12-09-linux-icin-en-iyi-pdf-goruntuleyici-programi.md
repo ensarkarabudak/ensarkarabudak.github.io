@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Linux için En iyi PDF Görüntüleyici Programları"
+tags:
+  - linux
 ---
 
 PDF dosyalarını bir PDF görüntüleyici sahip olmak masaüstü Linux dağıtımlarında çok önemlidir.

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Beyaz Gemi İçerisindeki Hayaller"
+tags:
+  - kitap
 ---
 
 …Kendi kendisiyle konuşmayı severdi.

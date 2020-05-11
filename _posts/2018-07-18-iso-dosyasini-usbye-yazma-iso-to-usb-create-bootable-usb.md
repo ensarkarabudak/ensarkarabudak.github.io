@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "ISO Dosyasını USB’ye Yazma(ISO to USB,Create Bootable Usb)"
+tags:
+  - iso
 ---
 
 ISO Dosyasını USB’ye Nasıl Yazılır?,Bootable Usb Nasıl Yapılır?

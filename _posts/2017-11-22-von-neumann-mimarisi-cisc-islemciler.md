@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Von Neumann Mimarisi ve CISC İşlemciler"
+tags:
+  - mikroişlemci
+  - bilgisayar bilimleri
 ---
 
 ##### Von Neumann Mimarisi ve CISC İşlemciler

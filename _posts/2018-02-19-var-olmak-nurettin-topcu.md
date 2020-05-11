@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Var Olmak – Nurettin Topçu"
+tags:
+  - kitap
 ---
 
 “Var olmak,düşünmek ve hareket etmek demektir.”

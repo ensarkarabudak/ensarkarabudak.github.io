@@ -1,6 +1,10 @@
 ---
 layout: post
 title: "SQL Komutları,SQL Sorguları,SQL Ders Notları"
+tags:
+  - sql
+  - bilgisayar bilimleri
+  - database
 ---
 
 SQL Komutları,SQL Sorguları,SQL Ders Notları,SQL nedir?,SQL komutları ve örneklerini inceleyeceğiz.

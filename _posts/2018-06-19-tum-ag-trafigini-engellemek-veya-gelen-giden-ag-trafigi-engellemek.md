@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Tüm Ağ Trafiğini Engellemek veya Gelen-Giden Ağ Trafiği Engellemek"
+tags:
+  - ağ
 ---
 
 Eğer bilgisayarınızdaki tüm gelen veya giden bağlantıyı engellemek istiyorsanız aşağıdaki komutları çalıştırın:

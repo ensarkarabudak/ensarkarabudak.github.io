@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "PostgreSQL Kullanımı"
+tags:
+  - postgresql
+  - database
 ---
 
 #### 1- Veritabanı oluşturma

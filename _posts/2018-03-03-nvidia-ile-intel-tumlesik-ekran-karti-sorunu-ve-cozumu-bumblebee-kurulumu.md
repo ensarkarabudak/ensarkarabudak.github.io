@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Nvidia ile Intel Tümleşik Ekran Kartı Sorunu ve Çözümü(Bumblebee Kurulumu)"
+tags:
+  - sorun
 ---
 
 Intel-Nvidia Hibrit GPU Sorunu ve Çözümü,Nvidia ile Intel Tümleşik Ekran Kartları arasında geçiş yapmak için Bumblebee adlı programın kurulumunu gerçekleştireceğiz.

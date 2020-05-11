@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Selection Sort (Seçerek Sıralama)"
+tags:
+  - algoritma
+  - bilgisayar bilimleri
 ---
 
 Selection Sort(Seçerek Sıralama) bir sıralama algoritmasıdır.Büyük veri kümesini sıralamak için verimsizdir.**Bubble sort** yönteminin iyileştirilmiş hali diyebiliriz.

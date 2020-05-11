@@ -1,6 +1,10 @@
 ---
 layout: post
 title: "Başvuru ile Çağırma(Call by Reference)"
+tags:
+  - programlama dilleri
+  - bilgisayar bilimleri
+
 ---
 
 Başvuru ile Çağırma(Call by Reference)

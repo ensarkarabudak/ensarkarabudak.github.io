@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Değer İle Çağırma(Call by Value)"
+tags:
+  - programlama dilleri
+  - bilgisayar bilimleri
 ---
 
 Değer ile çağırma yöntemi, içeri modelinin gerçekleştirimidir.

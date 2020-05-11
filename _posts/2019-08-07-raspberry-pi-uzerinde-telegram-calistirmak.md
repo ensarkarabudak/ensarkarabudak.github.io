@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Raspberry Pi Üzerinde Telegram Çalıştırmak"
+tags:
+  - raspberry pi
 ---
 
 Bu yazımda,Rasspbery Pi cihazınız üzerinde Telegram uygulamanızı kullanarak mesaj,fotoğraf,video vb. göndermek / almak için neler yapmanız gerektiğinizden bahsedeceğim.

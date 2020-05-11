@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Linear Search(Doğrusal Arama)"
+tags:
+  - algoritma
+  - bilgisayar bilimleri
 ---
 
 Linear Search (Doğrusal Arama)

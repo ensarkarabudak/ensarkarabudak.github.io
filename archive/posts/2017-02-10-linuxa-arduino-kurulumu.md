@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Linux’a Arduino Kurulumu"
+tags:
+  - linux
+  - arduino
 ---
 
 Linux işletim sistemine **Arduino** bütünleşik geliştirme ortamını yani IDE kurulumu diğer işletim sistemlerine nazaran biraz daha kolay ya da **kolay** yolları mevcut diyebiliriz.Arduino’yu linux işletim sistemine kurmanın avantajı ise Arduino geliştiriciler Linux ortamında çalıştıkları için Arduino’ya gelen **güncellemeler** ve yenilikler ilk olarak Linux ortamında görülüyor.

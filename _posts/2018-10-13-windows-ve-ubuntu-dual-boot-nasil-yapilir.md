@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Windows ve Ubuntu Dual Boot Nasıl Yapılır?"
+tags:
+  - dual boot
 ---
 
 **1-**Kuruluma başlamadan önce Ubuntu’yu kuracağımız alanın olması şart bunun için Windows disk yönetimi penceresinden istediğiniz kadar alan ayırın(min. 15GB). 

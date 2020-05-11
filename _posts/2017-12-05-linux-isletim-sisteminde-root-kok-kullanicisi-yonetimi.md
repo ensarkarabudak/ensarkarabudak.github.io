@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Linux İşletim Sisteminde Root(kök kullanıcısı) Yönetimi"
+tags:
+  - linux
 ---
 
 Linux İşletim Sisteminde Root(kök kullanıcısı) Yönetimi

@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Graf Teorisi(Graph Theory)"
+tags:
+  - bilgisayar bilimleri
+  - graf
 ---
 
 **Graf**,gerçek hayatta karşılaşılan birçok problemi,mantıksal ilişki kurarak problemi göstermeye yarayan bir ağ yapısıdır.

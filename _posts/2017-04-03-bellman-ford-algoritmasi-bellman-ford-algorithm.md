@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Bellman Ford Algoritması(Bellman Ford Algorithm)"
+tags:
+  - algoritma
+  - bilgisayar bilimleri
 ---
 
 <center>

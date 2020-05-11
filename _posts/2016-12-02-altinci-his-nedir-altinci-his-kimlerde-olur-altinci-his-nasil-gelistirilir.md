@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Altıncı His Nedir? Altıncı His Kimlerde olur? Altıncı His Nasıl Geliştirilir?"
+tags:
+  - nedir
 ---
 
 Görme,duyma,koklama,dokunma ve tat alma duyuları olmak üzere beş tane duyumuz var.Peki altıncısı nerede?

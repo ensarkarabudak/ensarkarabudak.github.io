@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Node.js Kurulumu Nasıl Yapılır?"
+tags:
+  - nodejs
+  - kurulum
 ---
 
 ## Node.js Nedir?

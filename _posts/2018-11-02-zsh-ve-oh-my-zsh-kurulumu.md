@@ -1,6 +1,10 @@
 ---
 layout: post
 title: "ZSH ve Oh My ZSH Kurulumu"
+tags:
+  - zsh
+  - sheel
+  - linux
 ---
 
 İlk olarak ZSH kurulumunu yapalım.

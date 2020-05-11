@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Shor algoritması(Shor’s algorithm)"
+tags:
+  - algoritma
+  - bilgisayar bilimleri
 ---
 
 **Shor algoritması**,kuantum bilgisayarlarda kullanılan çok büyük sayıda sayıları çok kolay bir şekilde sayıyı asal çarpanlarına ayıran bir algoritmadır.Bu algoritmanın kullanımı oldukça önemlidir çünkü **açık anahtar şifrelemesini**kullanan sistemleri kolayla kırılabilir.

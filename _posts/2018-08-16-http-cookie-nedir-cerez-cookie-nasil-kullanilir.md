@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Http Cookie Nedir ? – Çerez(Cookie) Nasıl Kullanılır ?"
+tags:
+  - http
+  - tarayıcı
 ---
 
 Cookie(Çerezler), kullanıcıların bilgisayarında bulunan, web sitesinin içinde bulundurduğu bilgileri saklarlar.Tarayıcı cookie’yi alır ve sunucuya gönderdiği bütün istekleri HTTP header’larına ekler. Böylece sunucu session bilgisini alır buna **session cookie** denir.

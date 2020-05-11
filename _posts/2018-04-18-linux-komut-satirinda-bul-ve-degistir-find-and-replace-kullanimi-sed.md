@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Linux Komut Satırında Bul ve Değiştir(Find and Replace) Kullanımı(Sed)"
+tags:
+  - linux
 ---
 
 Linux işletim sisteminde bir dosya içerisindeki istediğimiz kelimeyi bul ve değiştir yani find and replace işleminin nasıl yapıldığını inceleyeceğiz.Bu işlemi komut satırından yapacağız.Öncelikle örnek dosyamızın adı:ornek.txt olsun.

@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Kesme(Interrupt) Nedir?,Kesme Ne İşe Yarar? (Mikroişlemci Kesmesi)"
+tags:
+  - mikroişlemci
+  - bilgisayar bilimleri
 ---
 
 Kesme,mikrodenetleyicinin işlemekte olduğu **program kodlarını** bırakıp başka bir

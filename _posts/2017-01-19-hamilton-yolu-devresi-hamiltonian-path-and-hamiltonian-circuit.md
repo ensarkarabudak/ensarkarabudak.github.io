@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Hamilton Yolu ve Devresi(Hamiltonian Path and Hamiltonian Circuit)"
+tags:
+  - algoritma
 ---
 
 Bir grafın tüm düğümlerini bir kere geçen yola **“Hamilton Yolu(Hamiltonian Path)”** denir.

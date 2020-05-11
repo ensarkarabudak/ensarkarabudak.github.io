@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Heisenberg’in Belirsizlik İlkesi"
+tags:
+  - bilim
 ---
 
 Belirsizlik ilkesi, 1927 yılında **Werner Heisenberg** tarafından öne sürülmüş bir kuantum ilkesidir.Kuantum fiziğinde Heisenberg’in belirsizlik ilkesine göre, bir parçacığın **momentumu ve konumu** aynı anda tam doğrulukla ölçülemez .Kuantum mekaniğininden ortaya çıkmış bir başka fikir de,gözlemin kendisinin gözlenen olguyu değiştirdiği kavramıdır.**Örneğin** Dünya’nın çevresindeki yörüngesinde dönen Ay’ın nasıl gözlendiğini düşünün.**Güneşten yayılan ışık Ay’dan yansır**.Gözlemci bu ışığı görür ve Ay’ın yerini bulmak için ışığın geldiği yönü takip eder.Işığın dalga boyu Ay’ın boyutundan çok daha küçüktür,bu Ay’ın yerinin **kesin** olarak belirlenebilmesini sağlar.

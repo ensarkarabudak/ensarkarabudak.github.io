@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "HTTP Durum Kodları ve Anlamları"
+tags:
+  - http
 ---
 
 Http durum kodları ve anlamlarına bakmadan önce şunu açıklayalım:HTTP durumu(Http Status) nedir?

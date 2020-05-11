@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "Arch Linux Kurulumu 2018(How to Install Arch Linux )"
+title: "Arch Linux Kurulumu 2020(How to Install Arch Linux )"
+tags:
+  - linux
 ---
 
 Arch Linux kurulumunu başlamadan önce Arch Linux sitesiden güncel iso dosyasını [buradan](https://www.archlinux.org/download/) indirin.

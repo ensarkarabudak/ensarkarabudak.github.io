@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "TCP Üçlü El Sıkışma – TCP 3 Way Handshake"
+tags:
+  - ağ
 ---
 
 İstemci-sunucu arasında bir veri akışının sağlanması için Üçlü El Sıkışma(3 Way Handshake) dediğimiz olayın gerçekleşmesi lazım.TCP/IP protokolü paketlerin doğru sırayla istenilen hedefe götüren bir ve ilk bağlantıyı sağlayan protokoldür.

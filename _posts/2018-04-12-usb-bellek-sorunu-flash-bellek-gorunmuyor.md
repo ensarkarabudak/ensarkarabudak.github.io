@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Usb Bellek Sorunu[Flash Bellek Görünmüyor]"
+tags:
+  - sorun
 ---
 
 Linux dağıtımlarında veya ubuntu dağıtımında usb bellek görmüyor yani usb bellek sorunu ile karşılaşıyorsanız çözümü şu şekilde olacak.

@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Değer ve Sonuç ile Çağırma (Call by Value Result)"
+tags:
+  - programlama dilleri
+  - bilgisayar bilimleri
 ---
 
 Değer ve Sonuç ile Çağırma (Call by Value Result)

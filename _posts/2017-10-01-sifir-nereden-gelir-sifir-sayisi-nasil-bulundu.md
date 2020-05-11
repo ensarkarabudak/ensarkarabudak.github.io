@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Sıfır Nereden Gelir? Sıfır Sayısı Nasıl Bulundu?"
+tags:
+  - sayı
+  - merak
 ---
 
 “Sen bir sıfırsın!” dendiği duyulur bazen:”Hiç kulağa negatif geliyor ama “hiç” nasıl kötü bir şey olabilir ki? Çocuklar saymayı öğrendiklerinde,bunu parmaklarıyla yapmayı severler.İki ve üç,eşittir beş.Sadece konu **sıfır** olduğunda sorun vardır;onun için parmak yoktur.

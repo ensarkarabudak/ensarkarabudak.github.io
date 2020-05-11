@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Raspberry Pi'yi Ekran Olmadan SSH Etkinleştirme"
-author: ensarkarabudak
-
+tags:
+  - raspberry pi
 ---
 
 Başıma gelen ve oldukça kullanışlı olan bir bilgiyi paylaşmak istiyorum.

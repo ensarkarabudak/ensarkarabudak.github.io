@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Linux Shell(Kabuk) Nasıl Değiştirilir?"
+tags:
+  - linux
+  - shell
 ---
 
 #### Shell(Kabuk) Nedir?

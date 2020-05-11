@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Kablosuz Ağlarda Güvenlik"
+tags:
+  - ağ
+  - güvenlik
 ---
 
 Kablosuz ağlarda veri iletimi herhangi bir fiziksel ortam olmaksızın havadan gerçekleştiği için verilerin 3.şahısların tarafından ele geçirilmesi ve takip edilmesi mümkündür. Bu nedenle kablosuz ağlarda güvenlik önemli bir konudur.

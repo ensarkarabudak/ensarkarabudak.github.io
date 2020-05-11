@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Başarı ve Mutluluk için Hayata Gülümse"
+tags:
+  - kitap
 ---
 
 Mutluluk ve başarı için hayata gülümsemeye çalışan bu eserde yazar verdiği örnekle ve küçük hikayelerle mutluluğun ve başarının aslında bizim içimizde olduğunu anlatıyor.Hani **ressama sormuşlar**;”Mutluluğun resmini çizebilir misin?”diye Ressam şöyle cevap vermiş:”**Ben çizerim de sen anlayabilir misin?**” Gelin hep beraber mutluluğun resmini anlamaya çalışalım.

@@ -1,6 +1,10 @@
 ---
 layout: post
 title: "Sayısal Analiz,Sayısal Yöntemler Ders Notları"
+tags:
+  - bilgisayar bilimleri
+  - sayısal analiz
+  - ders notu
 ---
 
 Sayısal yöntemler ya da Sayısal Analiz olarak geçen derste tutmuş olduğum notları sizinle paylaşmak istedim.Aşağıda Sayısal yöntemler konularını,Sayısal analiz konularını içeren liste bulunmaktadır.

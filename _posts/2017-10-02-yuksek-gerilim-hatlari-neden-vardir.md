@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Yüksek Gerilim Hatları Neden Vardır?"
+tags:
+  - elektrik
+  - merak
 ---
 
 Eskiden çoğu işletme ve fabrika kendi elektriğini jenaratörler yardımıyla kendisi üretmek zorundaydı.

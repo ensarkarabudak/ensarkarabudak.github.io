@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Statik Kapsam Bağlama(Static Scope,Static Binding)"
+tags:
+  - programlama dilleri
+  - bilgisayar bilimleri
 ---
 
 <center>

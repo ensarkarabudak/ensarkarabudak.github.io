@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Sezar Şifrelemesi(Caesar Crypto)"
+tags:
+  - kriptoloji
+  - bilgisayar bilimleri
 ---
 
 Bu şifreleme adını Julious Ceasar’dan alan basit bir yer değiştirme şifreleme örneğidir.

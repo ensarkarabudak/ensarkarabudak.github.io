@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Yapay Zekanın Zirve Filmi:”Ex Machina”"
+tags:
+  - film
 ---
 
 **Konusu:** Filmin ana karakteri olan Caleb Smith, dünya çapında ses getirmiş bir teknoloji şirketinde yazılımcı olarak çalışmaktadır.Şirkette bir yarışma düzenlenir.Yarışmayı düzenleyen aynı zamanda şirketin CEO’su olan Nathan Bateman’dır.

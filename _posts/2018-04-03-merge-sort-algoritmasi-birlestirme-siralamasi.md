@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Merge Sort Algoritması(Birleştirme Sıralaması)"
+tags:
+  - algoritma
 ---
 
 Merge Sort Algoritması(Birleştirme Sıralaması)

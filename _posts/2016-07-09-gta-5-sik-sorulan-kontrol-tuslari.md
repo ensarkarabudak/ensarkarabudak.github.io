@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "GTA 5 SIK SORULAN KONTROL TUŞLARI"
+tags:
+  - oyun
 ---
 
 **Gta 5(PC) oyununda sık sık sorulan özellikle yeni başlayan arkadaşlar için bir rehber niteliğinde bir yazı olsun.İyi Oyunlar.**

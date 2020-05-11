@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "13 Sayısı Neden Uğursuzdur? 13 Sayısının Anlamı ve Sırrı Nedir?"
+tags:
+  - merak
+  - sayı
 ---
 
 Bazen doğru sayı sayamadığımız izlenimi oluşabiliyor:Bazı binalarda **13.kat** eksik oluyor,otellerde 13 no’lu oda ve uçaklarda 13.sıra olmuyor.Yüksek teknolojiye sahip toplumların içinde bile hala bazı batıl inançlar mevcut.Peki,13 sayısı neden uğursuz sayılıyor?

@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Bubble Sort(Kabarcık Sıralama)"
+tags:
+  - algoritma
+  - bilgisayar bilimleri
 ---
 
 Sıralama algoritmaları arasında oldukça kullanışlı olan Bubble Sort(Kabarcık Sıralama),büyük dizilerde çok yavaş çalışan fakat kullanımı oldukça basit olduğu için tercih edilen bir sıralama yöntemidir.

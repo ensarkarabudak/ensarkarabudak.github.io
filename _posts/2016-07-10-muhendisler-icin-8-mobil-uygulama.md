@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Mühendisler İçin 8 Mobil Uygulama"
+tags:
+  - mobil
 ---
 
 Mühendisliğin olmassa olmaz şartlarından biride insanların yaşamları daha kolay ve konforlu hale getiren çalışmalar yapmaktır.Bu sefer mühendislerin ya da o ruhta olanların mobil cihazlar üzerinde kullanabileceği uygulamaları ele alacağız.

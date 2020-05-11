@@ -1,6 +1,10 @@
 ---
 layout: post
 title: "Yapay Zeka ve Makina Öğrenmesi İle Yapılmış 20 Açık Kaynak Proje"
+tags:
+  - açık kaynak
+  - yapay zeka
+  - makina öğrenmesi
 ---
 
 Yapay Zeka(AI) ve Makina Öğrenmesi günümüzde popüler hale geldi.

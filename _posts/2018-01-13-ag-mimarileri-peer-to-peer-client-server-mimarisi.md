@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Ağ Mimarileri,Peer-to-Peer ve Client-Server Mimarisi"
+tags:
+  - ağ
 ---
 
 Ağ Mimarileri Ağ üzerindeki cihazların iletişim şekline göre ağlar **Peer-to-Peer** ve **Client-Serve**r olmak üzere iki gruba ayrılır.

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Zamanın ötesinde bir film:”Contact(Mesaj)”"
+tags:
+  - film
 ---
 
 <center>

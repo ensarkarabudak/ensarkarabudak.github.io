@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "MYSQL Komutları ve Kullanımı"
+tags:
+  - mysql
+  - database
 ---
 
 MYSQL komutları ve kullanımı,php mysql komutlarını ve Mysql komutlarını örneklerle beraber açıklamaya çalışacağım.Mysql komutları ve kodlarının ne anlamlara geldiklerini detaylı

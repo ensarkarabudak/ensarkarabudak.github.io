@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Sonuç ile Çağırma(Call by Result)"
+tags:
+  - programlama dilleri
+  - bilgisayar bilimleri
 ---
 
 Sonuç ile Çağırma(Call by Result)

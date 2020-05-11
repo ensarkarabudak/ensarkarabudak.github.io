@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Ağ Bağlantı Cihazları"
+tags:
+  - ağ
 ---
 
 ## Ağ Arayüz Kartı (MC-Network interface Card)

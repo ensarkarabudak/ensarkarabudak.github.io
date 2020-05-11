@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "OSI MODELİ,OSI KATMANLARI NELERDİR?"
+tags:
+  - ağ
 ---
 
 İki bilgisayar arasındaki iletişimi biçimsel olarak tanımlayan ilk kuruluşlardan birisi ISO **(International Organization for Standardization)**‘dur. ISO uluslararası veri iletişimi standartları geliştiren bir kuruluştur. ISO 1970’lerde OSI (Open Systems Interconnection) mimarisini geliştirmiştir. OSI ağ sistemleri için bir kılavuz niteliğindedir. OSI öncesinde donanım üreticilerinin kendilerine özgü ağları bulunmakta ve farklı üreticilere ait donanımlar aynı ağda çalışmamaktadır. OSI ile birlikte farklı üreticilere ait donanımlar arası uyumsuzluk ortadan kalkmış ve bilgisayarlar arası iletişim ortak bir standarda oturtulmuştur.

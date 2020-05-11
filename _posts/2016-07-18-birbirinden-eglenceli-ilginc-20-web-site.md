@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Birbirinden Eğlenceli ve İlginç 20 Web Site"
+tags:
+  - eğlence
+  - site
 ---
 
 Can sıkıntısına birebir titizlikle seçtiğim birbirinden güzel siteleri sizinle paylaşmak istedim.

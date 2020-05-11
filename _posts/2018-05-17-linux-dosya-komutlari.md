@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Linux Dosya Komutları"
+tags:
+  - linux
 ---
 
 ##### ls

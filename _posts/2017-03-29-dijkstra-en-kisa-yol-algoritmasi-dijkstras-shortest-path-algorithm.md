@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Dijkstra En Kısa Yol Algoritması (Dijkstra’s Shortest Path Algorithm)"
+tags:
+  - algoritma
 ---
 
 <center>

@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Proxy Server Nedir?,Vekil Sunucu Nedir?"
+tags:
+  - ağ
+  - vpn
 ---
 
 Proxy Server(Vekil Sunucu)

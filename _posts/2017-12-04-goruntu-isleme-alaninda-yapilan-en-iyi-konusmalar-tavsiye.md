@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Görüntü İşleme Alanında Yapılan En İyi Konuşmalar"
+tags:
+  - görüntü işleme
 ---
 
 Görüntü işleme,ölçülmüş veya kaydedilmiş olan elektronik görüntü verilerini, elektronik ortamda (bilgisayar ve yazılımlar yardımı ile) amaca uygun şekilde değiştirmeye yönelik yapılan bilgisayar çalışması nedir.Görüntü işleme popülerliği artan bir konu bu konu hakkında çeşitli konuşmaları sizinle paylaşacağım.Çoğunlukla TEDx konuşması ve çoğunun Türkçe altyazı desteği var.

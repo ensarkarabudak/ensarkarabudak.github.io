@@ -1,5 +1,7 @@
 ---
 layout: post
+tags:
+  - bilim
 title: Görüntülenebilmiş En Büyük Kara Delik Fotoğrafı Çekildi
 ---
 
