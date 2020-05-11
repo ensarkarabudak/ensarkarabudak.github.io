@@ -1,0 +1,15 @@
+# Sample Authors
+# Remove file or replace with your own
+
+ensarkarabudak:
+  name: Ensar Karabudak
+  picture: /images/avatar.png
+  twitter: "@ensarkarabudak"
+  links:
+    - title: Twitter
+      url: https://twitter.com/ensarkarabudak
+      icon: fab fa-twitter-square
+    - title: GitHub
+      url: https://github.com/ensarkarabudak
+      icon: fab fa-github-square
+
