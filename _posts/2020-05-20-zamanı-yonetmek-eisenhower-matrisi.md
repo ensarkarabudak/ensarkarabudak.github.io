@@ -2,7 +2,7 @@
 layout: post
 title: "Zamanı Yönetmek: Eisenhower Matrisi"
 image: 
-  path: /images/Zamanı-Yönetmek-Eisenhower-Matrisi.png
+  path: /images/Zamanı-Yönetmek-Eisenhower-Matrisi.jpg
   caption: "Photo from [eisenhower.me](https://www.eisenhower.me/eisenhower-matrix/)"
 tags:
   - zaman yönetimi
