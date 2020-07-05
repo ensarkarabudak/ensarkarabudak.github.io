@@ -3,6 +3,7 @@ layout: post
 title: "Zamanı Yönetmek: Eisenhower Matrisi"
 tags:
   - zaman yönetimi
+comments: true
 ---
 
 
