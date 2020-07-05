@@ -268,7 +268,7 @@
       min-width: 0;
     }
 
-    @supports (display: grid) {
+    @supports (display: block) {
       width: auto;
       margin: 0;
     }
