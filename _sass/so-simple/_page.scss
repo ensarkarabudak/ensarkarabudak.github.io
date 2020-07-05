@@ -222,7 +222,7 @@
 .layout--post {
   .page-wrapper {
     @include breakpoint($large) {
-      display: grid;
+      display: block;
       grid-column-gap: 3em;
       grid-row-gap: 0;
       grid-template-columns: 175px 1fr;
@@ -238,7 +238,7 @@
       clear: both; // needed for floated layout
     }
   }
-
+/*
   .page-sidebar {
     margin-bottom: 1em;
 
@@ -260,11 +260,11 @@
       }
     }
   }
-
+*/
   .page-content {
     @include breakpoint($large) {
       float: right; // display: grid fallback
-      width: 78%; // display: grid fallback
+      width: 100%; // display: grid fallback
       min-width: 0;
     }
 
