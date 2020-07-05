@@ -5,7 +5,10 @@ layout: default
 <hr> </hr>
 <br>
 <main id="main" class="main-content" aria-label="Content">
-  {% include entry-date.html %}
+  <div class="entry-meta">
+      {% if entry.date %}{% include entry-date.html %}{% endif %}
+  </div>
+ 
   <article class="h-entry">
     {% include page-image.html %}
     <div class="page-wrapper">
