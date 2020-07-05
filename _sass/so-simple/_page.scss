@@ -215,7 +215,7 @@
   }
 
   .page-title {
-    text-align: center;
+    text-align: left;
   }
 }
 
@@ -268,7 +268,7 @@
       min-width: 0;
     }
 
-    @supports (display: block) {
+    @supports (display: grid) {
       width: auto;
       margin: 0;
     }
