@@ -12,6 +12,9 @@ layout: default
   <article class="h-entry">
     {% include page-image.html %}
     <div class="page-wrapper">
+      <footer class="entry-meta">
+        {% include entry-date.html %}
+      </footer>
       <header class="page-header">
         {% assign title = page.title | markdownify | strip_html %}
         {% if page.link %}
