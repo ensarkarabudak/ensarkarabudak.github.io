@@ -6,9 +6,7 @@ tags:
   - bilgisayar bilimleri
 ---
 
-<center>
-<iframe width="720" height="315" src="https://www.youtube.com/embed/WNlJFz65vRo" frameborder="0" allowfullscreen></iframe>
-</center>
+{% include responsive-embed url="https://www.youtube.com/embed/WNlJFz65vRo" ratio="16:9" %}
 
 Statik Kapsam Bağlama,**yerel olmayan** değişkenleri bağlamak için dinamik kapsam bağlama kullanılır.
 Değişkenlerin kapsamları,programın metinsel düzenine göre belirlenir.Yani bulundukları konumlara göre.
@@ -21,7 +19,7 @@ bazı programlama dilleri desteklemez(C,C++).Statik kapsamı çevreleyen kapsam 
 
 Aşağıda Pascal dilinde yazılmış bir statik kapsam bağlama örneği bulunmaktadır.
 
-![image-center]({{ '/images/StatikScope/Statik-Kapsam-BağlamaStatic-ScopeStatic-Binding.png' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/StatikScope/Static-Scope-Static-Binding.png' | absolute_url }}){: .align-center}
 
 Bir program birimi içinde tanımlanmış değişkenler,o birim için yerel değişkenlerdir.
 O program birimi içinde görünür olan,ancak o birimde tanımlanmamış değişkenler ise yerel olmayan değişkenler olarak adlandırılmaktadır.
