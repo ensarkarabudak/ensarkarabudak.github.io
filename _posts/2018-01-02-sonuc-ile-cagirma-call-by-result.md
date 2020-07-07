@@ -11,7 +11,7 @@ Sonuç ile Çağırma(Call by Result)
 Sonuç ile çağırma yöntemi, dışarı modelinin gerçekleştirimidir.
 Bu yöntemde çağırım deyimi ile altprograma bir değer aktarılmazken,gerçek bir parametreye karşı gelen resmi parametrenin değeri, altprogram sonunda, denetim yeniden çağıran programa geçmeden önce, gerçek parametreyi gösteren değişkene aktarılır.
 
-![image-center]({{ '/images/CallBy/sonuc-ile-cagirma.png' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/sonuc-ile-cagirma.png' | absolute_url }}){: .align-center}
 
 Bu tanımlamadan anlaşıldığı gibi,gerçek parametrenin değişken olması zorunludur.
 Gerçek parametreye karşı gelen resmi parametre, altprogramın çalışması süresince yerel değişkendir. 

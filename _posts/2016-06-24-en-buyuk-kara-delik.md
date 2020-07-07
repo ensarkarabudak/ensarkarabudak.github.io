@@ -14,10 +14,7 @@ ancak kara delik tam olarak saptanamamıştı.
 Kara deliğin büyüklüğü ise Güneş’ten tam 21 milyar kat daha büyük olduğu belirtildi.
 Kara deliğin çapı ise 130 milyar kilometre olduğu saptandı.
 
-<center>
-<iframe width="720" height="315" src="https://www.youtube.com/embed/kewAsI7Pgnw" frameborder="0" allowfullscreen></iframe>
-</center>
-
+{% include responsive-embed url="https://www.youtube.com/embed/kewAsI7Pgnw" ratio="16:9" %}
 
 Kara delikler çekim gücüyle içinde bulundukları galaksiye etkide bulunurlar.
 Astronomların şimdiki hedefi ise bu kara deliğin NGC 4889 adlı galaksiyi nasıl

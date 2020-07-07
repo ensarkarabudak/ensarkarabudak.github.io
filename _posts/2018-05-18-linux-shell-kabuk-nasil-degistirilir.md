@@ -48,7 +48,7 @@ $ zsh
 
 Aşağıda görüldüğü gibi Z Shell’e geçiş yaptım.
 
-![image-center]({{ '/images/Shell/zsh.png' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/shell.png' | absolute_url }}){: .align-center}
 
 
 

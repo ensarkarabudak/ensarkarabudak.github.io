@@ -54,4 +54,4 @@ En küçük kareler yöntemi ile eğri uydurma
 Sayısal Analiz:Analitik yöntemlere alternatif, basit ama tekrarlı hesaplamalar
 Bilgisayar,hesap makinesi gibi mikroişlemci tabanlı sayısal sistemlere problem çözdürmeyi amaçlar.
 
-## [İndirmek İçin Tılayın.](/resource/file/Kendi-Notum.pdf)
+## [İndirmek İçin Tılayın.](/file/Kendi-Notum.pdf)

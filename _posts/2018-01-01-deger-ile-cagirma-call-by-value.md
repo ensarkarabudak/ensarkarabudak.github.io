@@ -15,6 +15,6 @@ Yani, resmi parametre için de bellek ayrılması gerekir.
 
 Değer İle Çağırma(Call by Value) Örneği
 
-![image-center]({{ '/images/CallBy/deger-ile-cagisrma.png' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/deger-ile-cagirma.png' | absolute_url }}){: .align-center}
 
 

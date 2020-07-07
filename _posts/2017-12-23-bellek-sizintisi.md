@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Bellek Sizintisi"
+title: "Bellek Sızıntısı"
 tags:
   - bilgisayar bilimleri
 ---
 
-![image-center]({{ '/images/BellekSizintisi/Bellek-Sizintisi-1024x386.png' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/bellek-sizintisi.png' | absolute_url }}){: .align-center}
 
 
 Şekil: Verilen program parçası için belleğin durumu.

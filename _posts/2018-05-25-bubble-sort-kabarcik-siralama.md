@@ -16,8 +16,8 @@ Sıralanacak eleman kümesinde ilk eleman alınır.Ardından eğer kendinden son
 #### Bubble Sort(Kabarcık Sıralama) Örnekleri
 
 
-![image-center]({{ '/images/BubbleSort/kabarcık-sıralama-bubble-sort.gif' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/bubble-sort-1.gif' | absolute_url }}){: .align-center}
 
-![image-center]({{ '/images/BubbleSort/bubble-sort-kabarcık-sıralama-algoritması-java-c.gif' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/bubble-sort-2.gif' | absolute_url }}){: .align-center}
 
 

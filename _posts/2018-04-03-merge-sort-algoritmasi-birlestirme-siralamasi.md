@@ -30,13 +30,13 @@ Görüldüğü gibi **divide and conquer(parçala ve fethet)** yaklaşımı,recu
 
 Merge Sort Örneği
 
-![image-center]({{ '/images/MergeSort/Merge-Sort-Algoritması.png' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/merge-sort-1.png' | absolute_url }}){: .align-center}
 
 > Not:Bölme aşamasında illa ikiye böleceğiz şekilde bir kural yoktur yani dizinizi üç,dört gibi eşit parçalarak bölebilirsiniz fakat bilgisayar bilimlerinde **ikiye bölmek** genel kabul edilmiş bir kuraldır.
 
 Merge(birleştirme) işleminin gerçekleştirimi
 
-![image-center]({{ '/images/MergeSort/Birleştirme-Sıralamasımerge-sort-algorithm.png' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/merge-sort-2.png' | absolute_url }}){: .align-center}
 
 ### Merge Sort Algoritmasının Karmaşıklığı
 
@@ -52,7 +52,7 @@ Bu özyinelemeli **(recursive)** bir yöntem olduğu için hep kendini çağıra
 Not:Kodu sizin yazıp öğrenmeniz amacıyla resim şeklinde verdim ![🙂](https://s.w.org/images/core/emoji/12.0.0-1/svg/1f642.svg)
 
 
-![image-center]({{ '/images/MergeSort/merge-sort-java-kodu.png' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/merge-sort-3.png' | absolute_url }}){: .align-center}
 
 
 Kod kaynak:erencetinkayaceng

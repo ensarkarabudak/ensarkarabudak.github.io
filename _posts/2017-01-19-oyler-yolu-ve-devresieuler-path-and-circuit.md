@@ -11,7 +11,7 @@ Burada önemli olan nokta ayrıtlar üzerinden **yalnızca** 1 kere geçilmelidi
 
 > Teorem:En az iki düğümlü bir grafta sadece 2 adet düğümün derecesi çift ise öyler yolu(euler path) vardır.
 
-![image-center]({{ '/images/Euler/Öyler-Yolu-ve-DevresiEuler-Path-and-Circuit.png' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/oyler-yolu-ve-devresi-euler-path-and-circuit.png' | absolute_url }}){: .align-center}
 
 
 #### Öyler devresi(Euler circuit) pseudo kodu(code)

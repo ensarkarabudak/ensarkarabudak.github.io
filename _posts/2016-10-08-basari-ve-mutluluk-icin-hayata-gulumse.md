@@ -30,6 +30,5 @@ Katı kuralları dışına çıkamayan bir hoca **Mevlanaya** şöyle seslenir:�
 
 Son olarak kendisinin şu **videosunu** izlemenizi tavsiye ederim.Ben kendisini bu video aracılığıyla tanımıştım.İzleyin bir şey kaybetmeyip kazanacağınızdan eminim.**Sıtkı ASLANHAN**‘ın kitaplarını **okumanızı tavsiye ederim**.
 
-<center>
-<iframe width="720" height="315" src="https://www.youtube.com/embed/xpbe5cGE3xs" frameborder="0" allowfullscreen></iframe>
-</center>
+
+{% include responsive-embed url="https://www.youtube.com/embed/xpbe5cGE3xs" ratio="16:9" %}

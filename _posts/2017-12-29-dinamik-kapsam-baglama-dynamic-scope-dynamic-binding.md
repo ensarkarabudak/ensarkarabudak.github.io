@@ -6,9 +6,7 @@ tags:
   - bilgisayar bilimleri
 ---
 
-<center>
-<iframe width="720" height="315" src="https://www.youtube.com/embed/CcWNsJoKlws" frameborder="0" allowfullscreen></iframe>
-</center>
+{% include responsive-embed url="https://www.youtube.com/embed/CcWNsJoKlws" ratio="16:9" %}
 
 Dinamik kapsam bağlama,bir ismin kapsamının,yordamların fiziksel olarak yakın olmalarına göre değil,
 yordamların çağrılma sırasına göre belirlenmesidir.Çalışma zamanında gerçekleşir.
@@ -17,11 +15,11 @@ Avantaj olarak,elverişliliği sağlar.Dezavantaj olarak okunabilirliği azaltı
 
 ### Dinamik Kapsam Bağlama Örneği
 
-![image-center]({{ '/images/DinamikScope/Dinamik-Scope-ornegi.png' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/dinamik-scope-1.png' | absolute_url }}){: .align-center}
 
 ### Dinamik Kapsam Bağlama Örneği
 
-![image-center]({{ '/images/DinamikScope/dinamik-scope-ornegi.png' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/dinamik-scope-2.png' | absolute_url }}){: .align-center}
 
 #### Video’daki Dinamik Kapsam Bağlama Örneği
 

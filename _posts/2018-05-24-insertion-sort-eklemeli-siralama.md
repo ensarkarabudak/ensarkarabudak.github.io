@@ -14,6 +14,6 @@ Sırasız verilmiş dizi elemanlarını tek tek ele alarak her birini dizinin so
 
 #### Insertion Sort(Eklemeli Sıralama) Örnekleri
 
-![image-center]({{ '/images/InsertionSort/Insertion-Sort-Eklemeli-Sıralama.gif' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/insertion-sort-1.gif' | absolute_url }}){: .align-center}
 
-![image-center]({{ '/images/InsertionSort/Insertion-Sort-Eklemeli-Sıralama-java-c-kodu' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/insertion-sort-2.gif' | absolute_url }}){: .align-center}

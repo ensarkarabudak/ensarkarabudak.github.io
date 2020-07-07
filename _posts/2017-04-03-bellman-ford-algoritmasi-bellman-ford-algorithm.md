@@ -6,9 +6,7 @@ tags:
   - bilgisayar bilimleri
 ---
 
-<center>
-<iframe width="720" height="315" src="https://www.youtube.com/embed/b-671rfMO-Q" frameborder="0" allowfullscreen></iframe>
-</center>
+{% include responsive-embed url="https://www.youtube.com/embed/b-671rfMO-Q" ratio="16:9" %}
 
 Bir graph(şekil) üzerinde,belirli bir başlangıç düğümünden diğer **tüm düğümlere en kısa yolu bulmamızı sağlayan** bir algoritmadır.En kısa yol bulma(shortest path algorithm) algoritmalarından biridir.Bu algoritmada tıpkı dijkstra algoritmasında olduğu gibi ağırlıklı graf üzerinden çalışır.
 
@@ -47,16 +45,16 @@ Yukarıda bahsettiğim gibi graf üzerinde düğüme gelen güncellemenin hangi 
 
 Bir örnek üzerinde açıklayalım.
 
-![image-center]({{ '/images/BellmanFord/Bellman-Ford-Algoritması-1-1024x707.jpg' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/bellman-ford-algoritmasi-1.jpg' | absolute_url }}){: .align-center}
 BellmanFord/Bellman-Ford-Algoritması-1-1024x707.jpg
 
 Grafımız bu şekilde olsun.
 
-![image-center]({{ '/images/BellmanFord/Bellman-Ford-Algoritması-2-1024x524.jpg' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/bellman-ford-algoritmasi-2.jpg' | absolute_url }}){: .align-center}
 
 İlk adımda A değerine 0(sıfır) diğer düğümlere sonsuz değerini atıyoruz ve graf üzerindeki tüm kenarları bir kenara yazıyoruz.
 
-![image-center]({{ '/images/BellmanFord/Bellman-Ford-Algoritması-3-1024x613.jpg' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/bellman-ford-algoritmasi-3.jpg' | absolute_url }}){: .align-center}
 
 İkinci adımda Kenarlar üzerinde çizili olanlar turuncu renkten mavi renge doğru en güncel değerleri belirtir yani sırasıyla düğümler üzerine yazarsanız en güncel değeleri şekildeki gibi bulursunuz yani:
 A-0

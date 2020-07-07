@@ -8,9 +8,8 @@ tags:
 **Konusu:** Filmin ana karakteri olan Caleb Smith, dünya çapında ses getirmiş bir teknoloji şirketinde yazılımcı olarak çalışmaktadır.Şirkette bir yarışma düzenlenir.Yarışmayı düzenleyen aynı zamanda şirketin CEO’su olan Nathan Bateman’dır.
 Ödül ise Nathan’ın sahip olduğu gizemli bir dağ laboratuvarında bir haftalık kalma.Bu laboratuvarda Nathan,yapay zeka üzerine çalışmalar yürütmektedir.Nathan,Caleb’ı bir haftalık bir ‘turing’ testine sokar.Test ana karakteri olan ‘Ava’,Caleb’ı oldukça zorlu bir sınava çıkıyor.
 
-<center>
-<iframe width="720" height="315" src="https://www.youtube.com/embed/EoQuVnKhxaM" frameborder="0" allowfullscreen></iframe>
-</center>
+{% include responsive-embed url="https://www.youtube.com/embed/EoQuVnKhxaM" ratio="16:9" %}
+
 
 İnsanlar gündelik hayatta oldukça sık teknolojiyle etkileşim halinde.
 Adeta insanların oksijen gereksiniminden farksız halde.Bizler sürekli teknolojik aletlere hükmediyoruz.Onlara komutlar verip, bir geri dönüş alıyoruz.Peki ya Makinalar bize hükmetse neler olur hiç düşündünüz mü?

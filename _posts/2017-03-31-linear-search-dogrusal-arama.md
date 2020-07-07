@@ -29,8 +29,8 @@ Tam sayılardan oluşan bir dizi olsun.
 
 #### Linear Search (Doğrusal Arama) Örnekleri
 
-![image-center]({{ '/images/DogrusalArama/linear_search-doğrusal-arama.gif' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/linear_search-1.gif' | absolute_url }}){: .align-center}
 
-![image-center]({{ '/images/DogrusalArama/doğrusal-arama-nasıl-çalışır.gif' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/linear_search-2.gif' | absolute_url }}){: .align-center}
 
 ##### Linear Search Java Code(Doğrusal Arama Java Kodu)

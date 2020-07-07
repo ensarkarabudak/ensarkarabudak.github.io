@@ -12,21 +12,21 @@ Statik Kapsam Bağlama,**yerel olmayan** değişkenleri bağlamak için dinamik 
 Değişkenlerin kapsamları,programın metinsel düzenine göre belirlenir.Yani bulundukları konumlara göre.
 Bir değişkene olan başvuru, programın çalıştırılması gerekmeden, program metninin incelenmesi ile belirli bir değişken tanımına bağlanabilinir.
 
-![image-center]({{ '/images/StatikScope/Static-Binding-ornek.png' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/static-binding-static-scope-1.png' | absolute_url }}){: .align-center}
 
 Statik kapsam bağlamayı sağlayan diller iç içe alt programları desteklerken(Ada, JavaScript, PHP),
 bazı programlama dilleri desteklemez(C,C++).Statik kapsamı çevreleyen kapsam onun atasıdır.En yakın ataya, ebeveyn (parent) denir.
 
 Aşağıda Pascal dilinde yazılmış bir statik kapsam bağlama örneği bulunmaktadır.
 
-![image-center]({{ '/images/StatikScope/Static-Scope-Static-Binding.png' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/static-binding-static-scope-2.png' | absolute_url }}){: .align-center}
 
 Bir program birimi içinde tanımlanmış değişkenler,o birim için yerel değişkenlerdir.
 O program birimi içinde görünür olan,ancak o birimde tanımlanmamış değişkenler ise yerel olmayan değişkenler olarak adlandırılmaktadır.
 
 #### Statik Kapsam Bağlama Örneği
 
-![image-center]({{ '/images/StatikScope/statik-scope-ornegi-1.png' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/static-binding-static-scope-3.png' | absolute_url }}){: .align-center}
 
 #### Video’daki Statik Kapsam Bağlama Örneği
 

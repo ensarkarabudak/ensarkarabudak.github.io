@@ -12,4 +12,4 @@ Hamilton yolu,**seyyar satıcı** problemi ve sıfır bilgi ispatı (Zero-Knowle
 
 > Teorem:n>=3 olmak üzere n düğümlü basit bir G grafında tüm düğümlerin dereceleri en az n/2 ise G grafında hamilton devre vardır.
 
-![image-center]({{ '/images/Hamilton/Hamilton-Yolu-ve-DevresiHamiltonian-Path-and-Hamiltonian-Circuit.png' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/hamilton-yolu-ve-devresi.png' | absolute_url }}){: .align-center}

@@ -22,20 +22,16 @@ Daha sonra aynı işlem sırasız olan alt dizin için sürekli aynı adım uygu
 
 Sıralamaya kalan altdizinler bitene kadar devam edilir.Sol taraf sıralı bir altdizi, sağ taraf sırasız bir alt dizi oluşur.
 
-
-
 Sırasız altdizi bitince kadar sıralama devam edilip bitirilmiş olunur.
 
 Selection Sort(Seçerek Sıralama)’un nasıl çalıştığını örneklerle inceleyelim.
-![image-center]({{ '/images/SelectionSort/Selection-Sort-java-sıralama.gif"' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/selection-sort-1.gif"' | absolute_url }}){: .align-center}
 
-![image-center]({{ '/images/SelectionSort/secerek-sıralama-selection.jpg' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/selection-sort-2.jpg' | absolute_url }}){: .align-center}
 
-![image-center]({{ '/images/InsertionSort/Selection-Sort-Seçerek-Sıralama.gif' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/selection-sort-3.gif' | absolute_url }}){: .align-center}
 
-![image-center]({{ '/images/InsertionSort/Selection-Sort-Seçerek-Sıralama.gif' | absolute_url }}){: .align-center}
-
-![image-center]({{ '/images/InsertionSort/selectin-sort-çalışma-mantığı-psuedo.gif' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/selection-sort-4.gif' | absolute_url }}){: .align-center}
 
 #### Selection Sort(Seçerek Sıralama)’un Algoritma Karmaşıklığı
 

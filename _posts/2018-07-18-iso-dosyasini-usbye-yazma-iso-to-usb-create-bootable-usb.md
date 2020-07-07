@@ -11,7 +11,7 @@ Eğer Windows ortamında bir **iso** dosyasını usb’ye yazmak istiyorsanız [
 
 ### WINDOWS işletim sistemi için
 
-![image-center]({{ '/images/UsbToIso/usb-to-iso-nasıl-format-atılır-bootable.png' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/iso-to-usb.png' | absolute_url }}){: .align-center}
 
 Aşağıdaki adımları izleyin:
 

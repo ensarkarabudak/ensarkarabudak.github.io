@@ -8,7 +8,7 @@ tags:
 İstemci-sunucu arasında bir veri akışının sağlanması için Üçlü El Sıkışma(3 Way Handshake) dediğimiz olayın gerçekleşmesi lazım.TCP/IP protokolü paketlerin doğru sırayla istenilen hedefe götüren bir ve ilk bağlantıyı sağlayan protokoldür.
 
 
-![image-center]({{ '/images/3WayShake/TCP-Üçlü-El-Sıkışma-TCP-3-Way-Handshake.gif' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/3-way-handshake.gif' | absolute_url }}){: .align-center}
 
 
 #### Üçlü El Sıkışma(3 Way Handshake) Nedir?

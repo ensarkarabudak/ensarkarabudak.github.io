@@ -5,9 +5,7 @@ tags:
   - film
 ---
 
-<center>
-<iframe width="720" height="315" src="https://www.youtube.com/embed/EWwhQB3TKXA" frameborder="0" allowfullscreen></iframe>
-</center>
+{% include responsive-embed url="https://www.youtube.com/embed/EWwhQB3TKXA" ratio="16:9" %}
 
 Contact filmi çekildiği zamanın çok ötesinde olan bir film.
 Hem kalite hem de kurgu bakımından.Contact filmi,Carl Sagan’ın aynı adla bulunan romanından uyarlanmasıdır.NASA’nın yayınladığı gerçekleşme ihtimali yüksek olan bilim kurgu filmlerinin başında yer alan bu film gerçektende insanı dünya dışı varlıkların olabileceğine veya başka yaşam alanlarını olabileceğine umut yakan bir kurgusu var.
@@ -29,9 +27,9 @@ Filminden bir kaç alıntı:
 > Ellie:Baba, evrende bizden başka canlılar var mı?
 > Babası:Eğer evrende yalnızsak, bu çok büyük bir yer kaybıdır.
 
-![image-center]({{ '/images/Contact/Zamanın-ötesinde-bir-filmContactMesaj-1024x576.png' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/contact-1.png' | absolute_url }}){: .align-center}
 
-![image-center]({{ '/images/Contact/Zamanın-ötesinde-bir-filmContactMesaj2-1024x576.png' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/contact-2.png' | absolute_url }}){: .align-center}
 
 
 **IMDB:7.4/10Benim Puanım:9.1/10**

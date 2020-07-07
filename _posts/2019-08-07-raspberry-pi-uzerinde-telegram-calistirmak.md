@@ -44,7 +44,7 @@ bin/telegram-cli –k tg-server.pub –W
 
 Şimdi telefon numaranızı soracaktır.
 
-![image-center]({{ '/images/TelegramOnRaspberryPi/TelegramOnRaspberryPi.png' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/telegram-on-rpi.png' | absolute_url }}){: .align-center}
 
 **Not:** Telefon hattınız, Türkiyeden bağlı bir servis sağlayıcıya bağlı ise başına **+90** koymayı unutmayın.
 

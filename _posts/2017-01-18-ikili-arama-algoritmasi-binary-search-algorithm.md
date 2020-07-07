@@ -1,9 +1,12 @@
 ---
 layout: post
-title: "İkili Arama Algoritması (Binary Search Algorithm)?"
+title: "İkili Arama Algoritması (Binary Search Algorithm)"
 tags:
   - algoritma
 ---
+
+{% include responsive-embed url="https://www.youtube.com/embed/Bi9zq4bS4Hw" ratio="16:9" %}
+
 
 **Bilgisayar mühendisliği** ya da **bilgisayar bilimleri**nin önemli derslerinden olan veri yapılarında işlenen bu arama algoritmasını anlatacağım.Genel olarak verilen bir dizi üzerinde **ikiye bölerek** aradığımız elemanı bulmamıza yarayan algoritmadır.Bu anlatımda ikili arama(binary search) diziler üzerinden anlatıcaktır.Bu algoritma dizi dışında bir çok farklı veri alanlarında kullanılabilir.
 
@@ -32,11 +35,11 @@ Bu algoritmik adımların her birinde diziyi her zaman ikiye böler.Yani problem
 int DiziOrnek[8]={1,4,9,10,22,30,35,43,45};
 Aranan Sayı:10
 
-![image-center]({{ '/images/BinarySearch/İkili-arama-algortiması-binary-search-1.jpg' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/BinarySearch/ikili-arama-algortiması-binary-search-1.jpg' | absolute_url }}){: .align-center}
 
 Dizimizin uzunluğu 9 olduğundan ortadaki eleman 4.indiste bulunan ’22’ olacaktır.Burada dikkat etmemiz gereken yer ise dizimizin ilk elemanın indisinin 0 olduğunu bilmemiz gerek.
 
-![image-center]({{ '/images/BinarySearch/İkili-arama-algortiması-binary-search-2.jpg' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/BinarySearch/ikili-arama-algortiması-binary-search-2.jpg' | absolute_url }}){: .align-center}
 
 Birinci adım:
 
@@ -46,7 +49,7 @@ Birinci adım:
 
 10 küçük müdür 22’den.Evet bu yüzden 22’in solundaki(küçük olan) sayıların ortasındaki değere yani 4’e bakacağız.
 
-![image-center]({{ '/images/BinarySearch/İkili-arama-algortiması-binary-search-3.jpg' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/BinarySearch/ikili-arama-algortiması-binary-search-3.jpg' | absolute_url }}){: .align-center}
 
 > **Not:**Ortadaki elemanı bulma işlemini yaparken 1 sayısı 0.indis, 10 sayısı 3.indis olduğu için 3/2=1.5 olur.Burada bölüm sonucu ondalıklı bir sayı çıktı bu sayıyı **tabana yuvarlama** işlemi yapıyoruz yani 1 olarak alıyoruz.Aslında eleman sayısına bakarak bulmakta mümkün.Elemanın sayımız sol taraftaki dizi için 4/2=2 olduğu için dizinin 2.elemanı yani indis olarak 1 olan elemanı almış oluyoruz.
 
@@ -54,11 +57,11 @@ Birinci adım:
 
 4,10’a eşit değildir ve 10’dan küçüktür.Bu yüzden sağ tarafa(büyük olan) sayılara bakacağız.
 
-![image-center]({{ '/images/BinarySearch/İkili-arama-algortiması-binary-search-4.jpg' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/BinarySearch/ikili-arama-algortiması-binary-search-4.jpg' | absolute_url }}){: .align-center}
 
 4’ün sağındaki dizide(9 ve 10) ortadaki eleman 9 sayısıdır.10’a eşit değildir.Bu yüzden sağ tarafa geçerek dizin tek elemanı kaldığı için ortadaki eleman otomatik olarak o sayı olacaktır.10 sayısının da eşit olup olmadığına baktıktan sonra bulup sonlandıracaktır.
 
-![image-center]({{ '/images/BinarySearch/İkili-arama-algortiması-binary-search-5.jpg' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/BinarySearch/ikili-arama-algortiması-binary-search-5.jpg' | absolute_url }}){: .align-center}
 
 #### **İkili arama(binary search) algoritmasının performansı**
 

@@ -33,9 +33,9 @@ Yönsüz graf:G=(V,E) biçimde gösterilir.V(vertex) yani düğümler kümesidir
 **Multi(Çok) yönlü graf:**Bir graftaki herhangi iki düğüm arasında birden fazla aynı yönlü graf varsa buna multi yönlü graf denir.
 **Mixed(Karışık) yönlü graf:**Hem yönlü hem de yönsüz grafların olduğu graflardır.
 
-![image-center]({{ '/images/Graf/GRAF-TEORİSİmixed-simple-graph-basit-yönlü-complete-graf.jpg' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/graph-theory-1.jpg | absolute_url }}){: .align-center}
 
-![image-center]({{ '/images/Graf/graf-teorisigraph.png' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/graph-theory-2.png' | absolute_url }}){: .align-center}
 
 
 Düğüm derecesi:
@@ -56,7 +56,7 @@ Deg(v)
 
 Kn ile gösterilir ve n düğüm sayısını ifade eder.Her bir düğüm çifti arasında tam olarak **1 tane ayrıt** bulunan basit bir graftır.
 
-![image-center]({{ '/images/Graf/TamComplete-Graf.png' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/graph-theory-3.png' | absolute_url }}){: .align-center}
 
 ##### **İki kümeli graf(Bipartite graph)**
 
@@ -64,11 +64,11 @@ Düğümler öyle bir iki kümeye ayrılmalıdır ki bir kenar ile birbirine ba�
 Yani mevcut küme içerisinde düğümler birbirine herhangi bir kenar ile bağlanmamalıdır.
 **Teorem:**Basit bir grafın bipartite olabilmesi için düğümler iki farklı **renk** ile boyandığında komşu düğümler aynı renk değilse bu graf bipartitedir.
 
-![image-center]({{ '/images/Graf/İki-kümeli-grafBipartite-graph.png' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/graph-theory-4.png' | absolute_url }}){: .align-center}
 
 ##### **Tam iki kümeli graf(Complete bipartite graph)**
 
 Km,n şeklinde gösterirlir.Bir kümedeki her düğümden başka bir kümedeki düğümlerin her birine **ayrıt** varsa bu graf tam iki kümeli graftır.
 
-![image-center]({{ '/images/Graf/Tam-iki-kümeli-grafComplete-bipartite-graph.png' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/graph-theory-5.png' | absolute_url }}){: .align-center}
 

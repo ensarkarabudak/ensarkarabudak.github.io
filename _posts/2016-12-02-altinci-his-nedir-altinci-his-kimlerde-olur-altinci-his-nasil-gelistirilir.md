@@ -23,7 +23,7 @@ Bu örnek vey başka bir yaşam alıntısından örneklere gerçekten de **mant�
 
 ### **Telepati testi**
 
-![image-center]({{ '/images/KitapFuarGezisi/altıncı-his-oyna.jpg' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/altinci-his.jpg' | absolute_url }}){: .align-center}
 
 Bilimsel olarak yapılan telepati teslerindeki amaç **altıncı hissin olup olmadığı kontrol etmek** için kullanılır.
 Bu testte beş kart ve üzerinde bulunan beş sembol kullanılır.Bunlar genelde **yıldız,kare,artı,daire ve soru işaretleridir.**Kartlar karıştırılır daha sonra kartları semboller gözükmeyecek şekilde test yapılan kişiye tek tek sorulur.5 kart vardır ve bunu 20 kez tekrarlayın.Her bilinen sembol 1 puan olacak şekilde toplanır.**Ortalama puan**bulunur.Ortalama puan,20 durumda 5 olduğu için **%25’dir.**Eğer puanınız ortalama puandan yüksek ise telapatik gücleriniz yani **altıncı hissiniz güçlü olabilir.**

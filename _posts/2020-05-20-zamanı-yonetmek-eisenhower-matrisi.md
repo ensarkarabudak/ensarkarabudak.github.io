@@ -42,4 +42,3 @@ Bence bu zaman yönetimini biraz değiştirerek daha etkili kullanabilirsiniz.
 
 - Bunu bir ToDo list şeklinde de yapabilirsiniz. Birçok ToDo uygulamasında vardır ama [Ticktick](https://ticktick.com/) uygulamasında örnek olarak görebilirsiniz.
 
-![image-center]({{ 'images/ticktick-todo-list.jpg' | absolute_url }}){: .align-center}
