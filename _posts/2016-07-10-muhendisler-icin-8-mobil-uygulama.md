@@ -33,13 +33,13 @@ uygulayabilirsiniz.
 
 ## 4.iCircuit
 
-![image-center]({{ '/images/muhendisler-icin-mobil-uygulama-4.jpg' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/muhendisler-icin-mobil-uygulama-4.png' | absolute_url }}){: .align-center}
 
 Graphing Calculator sayesinde grafiksel hesaplarınızı kolayca yapıp tüm fonksiyonel hesaplarınızı
 uygulayabilirsiniz.
 
 ## 5.iEngineer
-![image-center]({{ '/images/muhendisler-icin-mobil-uygulama-5.jpg' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/muhendisler-icin-mobil-uygulama-5.png' | absolute_url }}){: .align-center}
 
 iEngineer,projelerinizde kullanıcağız vida ve cıvataları bulmanıza kolaylık sağlar.
 Vida ve cıvataların donanımsal bilgileri yanında birçok özelliğe sahip.
