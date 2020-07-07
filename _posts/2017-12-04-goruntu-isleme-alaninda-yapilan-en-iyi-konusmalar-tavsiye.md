@@ -17,7 +17,6 @@ Görüntü işleme,ölçülmüş veya kaydedilmiş olan elektronik görüntü ve
 
 ### Introduction to Image Processing–Solving the Rubik’s Cube from Pictures
 
-
 {% include responsive-embed url="https://www.youtube.com/embed/xZXKfYePpw4?feature=oembed" ratio="16:9" %}
 
 ### How computers learn to recognize objects instantly | Joseph Redmon
@@ -25,7 +24,6 @@ Görüntü işleme,ölçülmüş veya kaydedilmiş olan elektronik görüntü ve
 {% include responsive-embed url="https://www.youtube.com/embed/Cgxsv1riJhI?feature=oembed" ratio="16:9" %}
 
 ### See invisible motion, hear silent sounds. Cool? Creepy? We can’t decide | Michael Rubinstein
-
 
 {% include responsive-embed url="https://www.youtube.com/embed/fHfhorJnAEI?feature=oembed" ratio="16:9" %}
 
