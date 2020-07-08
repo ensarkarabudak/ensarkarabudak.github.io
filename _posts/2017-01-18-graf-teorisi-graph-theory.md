@@ -33,7 +33,7 @@ Yönsüz graf:G=(V,E) biçimde gösterilir.V(vertex) yani düğümler kümesidir
 **Multi(Çok) yönlü graf:**Bir graftaki herhangi iki düğüm arasında birden fazla aynı yönlü graf varsa buna multi yönlü graf denir.
 **Mixed(Karışık) yönlü graf:**Hem yönlü hem de yönsüz grafların olduğu graflardır.
 
-![image-center]({{ '/images/graph-theory-1.jpg | absolute_url }}){: .align-center}
+![image-center]({{ '/images/graph-theory-1.jpg' | absolute_url }}){: .align-center}
 
 ![image-center]({{ '/images/graph-theory-2.png' | absolute_url }}){: .align-center}
 
