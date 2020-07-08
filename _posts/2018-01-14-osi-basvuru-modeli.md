@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OSI MODELİ,OSI KATMANLARI NELERDİR?"
+title: "OSI Modeli,OSI Katmanları Nelerdir?"
 tags:
   - ağ
 ---

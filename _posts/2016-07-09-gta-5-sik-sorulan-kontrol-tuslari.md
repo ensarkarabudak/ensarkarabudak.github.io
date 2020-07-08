@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GTA 5 SIK SORULAN KONTROL TUŞLARI"
+title: "GTA 5 Sık Sorular Kontrol Tuşları"
 tags:
   - oyun
 ---
