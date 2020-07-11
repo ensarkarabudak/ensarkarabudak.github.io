@@ -12,9 +12,9 @@ tags:
 
 ##### **İkili arama(binary search) algoritmasının özellikleri:**
 
-1.Parçala ve fethet(divide and conquere) yöntemiyle çalışır.
-2.T(n) hesabı,**O(log n)**‘dir.
-3.Dizi **sıralı** olmalıdır.
+1. Parçala ve fethet(divide and conquere) yöntemiyle çalışır.
+2. T(n) hesabı,**O(log n)**‘dir.
+3. Dizi **sıralı** olmalıdır.
 
 #### **İkili arama(binary search) algoritmasının çalışma mantığı**
 
