@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux Komut Satırında Bul ve Değiştir(Find and Replace) Kullanımı(Sed)"
+title: "Linux Komut Satırında Bul ve Değiştir"
 tags:
   - linux
 ---

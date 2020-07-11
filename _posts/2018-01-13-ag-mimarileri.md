@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ağ Mimarileri,Peer-to-Peer ve Client-Server Mimarisi"
+title: "Ağ Mimarileri - Peer-to-Peer ve Client-Server Mimarisi"
 tags:
   - ağ
 ---
