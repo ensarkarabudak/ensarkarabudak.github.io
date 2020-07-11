@@ -17,19 +17,16 @@ Adeta insanların oksijen gereksiniminden farksız halde.Bizler sürekli teknolo
 
 Konusunu açıklarkende belirttiğim gibi insan, yapay zeka ile bir ‘turing’ testiyle sınanır.Kısaca turing testini de açıklıyım.
 
-> Turing testi:İnsanlar,bilgisayarla etkileşimde bulunur.İnsan karşısında etkileşimde bulunduğun şeyin bir bilgisayar olduğunu anlamazsa test başarılı olmuş olur.
+**Turing testi:** İnsanlar,bilgisayarla etkileşimde bulunur.İnsan karşısında etkileşimde bulunduğun şeyin bir bilgisayar olduğunu anlamazsa test başarılı olmuş olur.
+{: .notice--success}
+
 
 Bu demektir ki bilgisayar dediğimiz şey yapay zekanın kendisidir.
 Film gerçektende tam bir bilim kurgu,psikolojik ve gerilim filmi.Tavsiyemdir.
 
 ![image-center]({{ '/images/ex-machina-replik.jpg' | absolute_url }}){: .align-center}
 
-**Ex Machina(2015) PUANLAMA**
 
-IMDB:**7,7/10**
-
-Benim Puanım:**7,9/10**
-
-Makinelerden çok, insanlığa ihtiyacımız var.
-
-| Charlie Chaplin
+> Makinelerden çok, insanlığa ihtiyacımız var.
+>
+> <footer><strong>Charlie Chaplin</strong></footer> 
