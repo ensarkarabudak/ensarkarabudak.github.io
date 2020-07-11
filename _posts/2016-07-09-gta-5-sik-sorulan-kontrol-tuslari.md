@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GTA 5 Sık Sorular Kontrol Tuşları"
+title: "GTA 5 Sık Sorulan Kontrol Tuşları"
 tags:
   - oyun
 ---
@@ -44,8 +44,8 @@ GTA 5 (PC) oyununda sık sık sorulan özellikle yeni başlayan arkadaşlar içi
 - **F1** kayıt başlatma. **F2** kayıt durdurma.**F3** Kayıt iptal etme.
 
 
-```
-Not: Varsayılan ayarları değiştirmek isterseniz Esc-Settings-Key Bindings yolunu izleyerek değiştirebilirsiniz.
-```
+
+> **Not:v Varsayılan ayarları değiştirmek isterseniz Esc-Settings-Key Bindings yolunu izleyerek değiştirebilirsiniz.
+{: .notice--accent}
 
 İyi Oyunlar.

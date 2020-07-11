@@ -12,17 +12,14 @@ tags:
 
 
 İnsanlar gündelik hayatta oldukça sık teknolojiyle etkileşim halinde.
-Adeta insanların oksijen gereksiniminden farksız halde.Bizler sürekli teknolojik aletlere hükmediyoruz.Onlara komutlar verip, bir geri dönüş alıyoruz.Peki ya Makinalar bize hükmetse neler olur hiç düşündünüz mü?
-İşte Ex-Machina filmiyle bu konuya bir nevi açıklık getirmek istenmiş.
-
+Adeta insanların oksijen gereksiniminden farksız halde.Bizler sürekli teknolojik aletlere hükmediyoruz.Onlara komutlar verip, bir geri dönüş alıyoruz.Peki ya Makinalar bize hükmetse neler olur hiç düşündünüz mü? İşte Ex-Machina filmiyle bu konuya bir nevi açıklık getirmek istenmiş.
 Konusunu açıklarkende belirttiğim gibi insan, yapay zeka ile bir ‘turing’ testiyle sınanır.Kısaca turing testini de açıklıyım.
 
 **Turing testi:** İnsanlar,bilgisayarla etkileşimde bulunur.İnsan karşısında etkileşimde bulunduğun şeyin bir bilgisayar olduğunu anlamazsa test başarılı olmuş olur.
 {: .notice--success}
 
 
-Bu demektir ki bilgisayar dediğimiz şey yapay zekanın kendisidir.
-Film gerçektende tam bir bilim kurgu,psikolojik ve gerilim filmi.Tavsiyemdir.
+Bu demektir ki bilgisayar dediğimiz şey yapay zekanın kendisidir. Film gerçektende tam bir bilim kurgu,psikolojik ve gerilim filmi.Tavsiyemdir.
 
 ![image-center]({{ '/images/ex-machina-replik.jpg' | absolute_url }}){: .align-center}
 
