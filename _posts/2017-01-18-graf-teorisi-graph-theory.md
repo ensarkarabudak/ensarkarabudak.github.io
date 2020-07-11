@@ -11,15 +11,15 @@ Graf teorisi,**çizge teorisi**,çizge kuramı,grafları inceleyen bir matematik
 
 #### **Grafların kullanım alanları:**
 
-Fizik, kimya vb. **temel bilim dalları**nda problemlerin veya konuların gösterilmesine yardımcı olur.
+- Fizik, kimya vb. **temel bilim dalları**nda problemlerin veya konuların gösterilmesine yardımcı olur.
 
-Ulaşımda otoyolların ve havayolların **güzergahlarında** kolaylık sağlar.
+- Ulaşımda otoyolların ve havayolların **güzergahlarında** kolaylık sağlar.
 
-Elektrik ve elektronik mühendisliğinde,**devreler** üzerinde kullanılır.
+- Elektrik ve elektronik mühendisliğinde,**devreler** üzerinde kullanılır.
 
-Bilgisayar mühendisliği veya bilgisayar bilimlerinde(computer science) birçok alanda kullanılır.Bilgisayar ağları,dosya dizinleri,internet,veritabanı vs.
+- Bilgisayar mühendisliği veya bilgisayar bilimlerinde(computer science) birçok alanda kullanılır.Bilgisayar ağları,dosya dizinleri,internet,veritabanı vs.
 
-**Oyunlar**da kullanılır.
+- Bilgisayar oyunlarında kullanılır.
 
 Görüldüğü gibi birçok farklı farklı alanlarda kullanılan **graf teorisi** (graph theory),hayatımızdaki problemleri basite indirgeyerek daha **hızlı** ve düzgün adımlar ile çözmemizi sağlar.
 
@@ -46,10 +46,11 @@ Deg(v)
 
  şeklinde gösterilir.
 
-> Not:Yönsüz grafta döngü,düğümün derecesini 2 arttırır.
+> Yönsüz grafta döngü,düğümün derecesini 2 arttırır.
+{: .notice--info}
 
-> Not:Derecesi 0 olan düğümlere izole düğüm,derecesi 1 olan düğümlerede uç düğüm ya da pendant denir.
-
+> Derecesi 0 olan düğümlere izole düğüm,derecesi 1 olan düğümlerede uç düğüm ya da pendant denir.
+{: .notice--info}
 #### **Bazı özel graflar**
 
 ##### **Tam(Complete) Graf**

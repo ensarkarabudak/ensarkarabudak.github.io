@@ -19,8 +19,6 @@ Size fuardan bir kitap kurdunun fotoğrafı paylaşacağım.
 ![image-center]({{ '/images/kitap-fuari-1.jpg' | absolute_url }}){: .align-center}
 
 
-Genel olarak kitap fuarı güzel ve eğlenceliydi. İnşallah daha nice kitap fuarını görmek nasip olur. Son olarak sizlere aldığım **kitapları paylaşmak** istiyorum.
-
-![image-center]({{ '/images/kitap-fuari-2.jpg' | absolute_url }}){: .align-center}
+Genel olarak kitap fuarı güzel ve eğlenceliydi. İnşallah daha nice kitap fuarını görmek nasip olur.
 
 iyi ki kitaplar var. .

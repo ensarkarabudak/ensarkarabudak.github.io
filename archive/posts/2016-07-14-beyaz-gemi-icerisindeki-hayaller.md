@@ -18,4 +18,4 @@ tags:
 Aytmatov,gayet akıcı bir dille yediden yetmişe her kişinin okuyacağı kitaplar yazan bir yazar. “Beyaz Gemi”de kesinlikle okunması gerek eserlerinden.Mutlaka okuyun derim.
 
 >…
->İnsanın mutlu olması ve mutluluğu başkalarına da vermesi bazen ne kadar kolay oluyor! diyordu.Hep böyle,evet tam o anda olduğu gibi yaşamalıydı insan.Ama > gerçek hayat bu değildi. Mutluluğun yanı sıra,peşini hiç bırakmayan,insanın ruhunu, bütün hayatını allak bullak eden felâketler,mutsuzluklar da vardı.
+>İnsanın mutlu olması ve mutluluğu başkalarına da vermesi bazen ne kadar kolay oluyor! diyordu. Hep böyle,evet tam o anda olduğu gibi yaşamalıydı insan. Ama gerçek hayat bu değildi. Mutluluğun yanı sıra,peşini hiç bırakmayan,insanın ruhunu, bütün hayatını allak bullak eden felâketler,mutsuzluklar da vardı.

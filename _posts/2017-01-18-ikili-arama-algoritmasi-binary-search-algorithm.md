@@ -18,15 +18,15 @@ tags:
 
 #### **İkili arama(binary search) algoritmasının çalışma mantığı**
 
-Dizinin indis bakımından **ortadaki** elemanını bulunur.
+1. Dizinin indis bakımından **ortadaki** elemanını bulunur.
 
-Eğer aranan eleman ortadaki elemana eşit ise aramayı sonlandır.
+2. Eğer aranan eleman ortadaki elemana eşit ise aramayı sonlandır.
 
-Eğer ortadaki elemana eşit değilse ve ortadaki elemandan büyükse ortadaki elamanın sağ tarafına(büyük elemanlarına) bak.
+3. Eğer ortadaki elemana eşit değilse ve ortadaki elemandan büyükse ortadaki elamanın sağ tarafına(büyük elemanlarına) bak.
 
-Eğer ortadaki elemana eşit değilse ve ortadaki elemandan küçükse ortadaki elamanın sol tarafına(küçük elemanlarına) bak.
+4. Eğer ortadaki elemana eşit değilse ve ortadaki elemandan küçükse ortadaki elamanın sol tarafına(küçük elemanlarına) bak.
 
-Eğer aramadaki bakılan aralık 1 veya daha düşükse aranan eleman bulunamamıştır.
+5. Eğer aramadaki bakılan aralık 1 veya daha düşükse aranan eleman bulunamamıştır.
 
 Bu algoritmik adımların her birinde diziyi her zaman ikiye böler.Yani problem **log2(n)** adımda çözülmesi beklenir.Daha iyi anlaşılması için bir dizi üzerinden örnekle açıklayalım.
 
@@ -54,7 +54,8 @@ Birinci adım:
 
 
 
-> **Not:**Ortadaki elemanı bulma işlemini yaparken 1 sayısı 0.indis, 10 sayısı 3.indis olduğu için 3/2=1.5 olur.Burada bölüm sonucu ondalıklı bir sayı çıktı bu sayıyı **tabana yuvarlama** işlemi yapıyoruz yani 1 olarak alıyoruz.Aslında eleman sayısına bakarak bulmakta mümkün.Elemanın sayımız sol taraftaki dizi için 4/2=2 olduğu için dizinin 2.elemanı yani indis olarak 1 olan elemanı almış oluyoruz.
+> Ortadaki elemanı bulma işlemini yaparken 1 sayısı 0.indis, 10 sayısı 3.indis olduğu için 3/2=1.5 olur.Burada bölüm sonucu ondalıklı bir sayı çıktı bu sayıyı **tabana yuvarlama** işlemi yapıyoruz yani 1 olarak alıyoruz.Aslında eleman sayısına bakarak bulmakta mümkün.Elemanın sayımız sol taraftaki dizi için 4/2=2 olduğu için dizinin 2.elemanı yani indis olarak 1 olan elemanı almış oluyoruz.
+{: .notice--info}
 
 İkinci adımdan sonra **tekrarlı** bir şekilde birinci ve ikinci adımdaki işlemleri yapmamız gerekecek.
 
@@ -71,32 +72,10 @@ Birinci adım:
 
 ikili arama algoritması (binary search algorithm) daha öncede belirttiğim gibi arama yapılan yapıyı sürekli **ikiye bölme** işlemine tâbi tuttuğu için T(n) hesabı,**O(log n)**‘dir.En iyi ihtimali ise ilk bölme işlemi sırasında baktığı durumda aradığı değerin bu değere eşit olması,en iyi ihtimalidir.Yine daha önceden belirttiğim gibi **ikili arama algoritması**(binary search algorithm) sıralı bir yapı üzerinde uygulanır.Eğer **sıralı olmayan** bir yapı(dizi) üzerinde yapılacaksa öncelikle sıralanması gerekir.En iyi sıralama algoritmalarından olan **birleştirme sıralaması(merge sort algorithm)** veya **hızlı sıralama algoritması(quick sort algorithm)** ile **O(nlog2(n))** adımda yapılır.Sıralama yaptıktan sonra **ikili arama** yapılır yani T(n) hesabımız şu şekilde olacaktır:
 
-=nlog2(n) + log2(n) (log2(n) parantezine alırsak)
-=**log2(n) (n+1)** işlem ile yapılır.
+= nlog2(n) + log2(n) (log2(n) parantezine alırsak) = **log2(n) (n+1)** işlem ile yapılır.
 
 **Doğrusal arama algoritması(linear search algorithm)**,sıralı yapılar(diziler) için oldukça **kötü bir performansa**sahiptir.Fakat sıralı olaman dizilir için O(n) performansı ile ikili arama(binary search) algoritmasından **daha iyi bir performans** verebilir.Sonuç olarak karışık yani sıralı olmayan bir dizi üzerinde arama işlemi yapılacaksa,doğrusal arama algoritması(linear search algorithm) **en hızlı ve basit bir algoritmadır.**
 
 ##### **İkili Arama Algoritması(Binary Search Algorithm) Java Kodu:**
 
-```java
-1 int[] dizi;
-2 int boyut;
-3
-4 public boolean binarySearch(int aranan)
-5 {
-6 int enkucukindis = 0;
-7 int enbuyukindis = boyut - 1;
-8
-9 while(enbuyukindis >= enkucukindis) {
-10 int orta = (enkucukindis + enbuyukindis) / 2;
-11 if(dizi[orta] == aranan) {
-12 return true;
-13 }
-14 if(dizi[orta] < aranan) { 15 enkucukindis = orta + 1; 16 } 17 if(dizi[orta] > aranan) {
-18 enbuyukindis = orta - 1;
-19 }
-20 }
-21 return false;
-22 }
-```
-
+<script src="https://gist.github.com/ensarkarabudak/f1ef7c30a568572696f80c776e932a9a.js"></script>
